@@ -5,3 +5,17 @@ installed pkg-config
 installed ffmpeg
 uv -version # Gets to know the package version
 uv sync #syncs-up the packages
+
+
+
+selecting, applying, deploying LLM is not covered in the course.
+
+
+
+GRoq - (limits)
+https://console.groq.com/settings/limits
+
+
+Anthropic - Claude LLM models
+https://platform.claude.com/docs/en/api/rate-limits
+https://platform.claude.com/docs/en/about-claude/pricing
